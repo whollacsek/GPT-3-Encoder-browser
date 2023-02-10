@@ -7,8 +7,10 @@
   "files": [
     "Encoder.js",
     "encoder.json",
-    "vocab.bpe",
-    "index.d.ts"
+    "vocab.js",
+    "index.d.ts",
+    "BrowserBase64Decoder.js",
+    "NodeBase64Decoder.js"
   ],
   "scripts": {
     "test": "jest"
